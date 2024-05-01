@@ -1,4 +1,4 @@
-### Olá, sou Joana! 👋
+# Olá, sou Joana! 👋
 
 * 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 * 🌱 Grande entusiasta da área de tecnologia
@@ -12,7 +12,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Estatísticas do Perfil
-<div>
+<div style='display: inline-block'>
   <a href="https://github.com/joanarochasilva/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joanarochasilva&show_icons=true&rank_icon=github&theme=tokyonight" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanarochasilva&show_icons=true&hide_progress=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
