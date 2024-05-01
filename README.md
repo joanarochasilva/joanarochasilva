@@ -1,24 +1,22 @@
 ### Olá, sou Joana! 👋
 
-<!--
-**joanarochasilva/joanarochasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+* 🌱 Grande entusiasta da área de tecnologia
 
-Here are some ideas to get you started:
+## Tecnologias e Frameworks
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=purple)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Javas](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://github.com/joanarochasilva/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joanarochasilva&show_icons=true&rank_icon=github&theme=tokyonight" />
-</a>
-<a href="https://github.com/joanarochasilva/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanarochasilva&show_icons=true&hide_progress=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
-</a>
+## Estatísticas do Perfil
+<div>
+  <a href="https://github.com/joanarochasilva/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joanarochasilva&show_icons=true&rank_icon=github&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanarochasilva&show_icons=true&hide_progress=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
 
