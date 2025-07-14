@@ -1,12 +1,13 @@
 # Olá, sou Joana! 👋
 
-* 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+* 🔭 Estudante de Engenharia da Computação
 * 🌱 Grande entusiasta da área de tecnologia
 
 ## Tecnologias e Frameworks
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=purple)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-239120?&style=for-the-badge&logo=css3&logoColor=purple)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Javas](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
